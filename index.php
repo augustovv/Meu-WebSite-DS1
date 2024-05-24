@@ -9,7 +9,8 @@
 
 <?php 
     echo "Hi!";
-    echo "Ai bolsonaro come meu cu come bolsonaro"
+    echo "Ai bolsonaro come meu cu come bolsonaro";
+    echo 4*2; 
 ?>
     
 </body>
